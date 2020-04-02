@@ -1,0 +1,3 @@
+```
+eval $(luarocks path --bin)
+```
